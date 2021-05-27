@@ -1,6 +1,5 @@
 {
-    
-   "mongoURI":"mongodb+srv://Ashrika:Ashrika@1999@devconnetor.6zejd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+   "mongoURI":"mongodb+srv://ashrika:ashrika123@devconnetor.6zejd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
    "mongoLocal":"mongodb://localhost/dev_connector_v1",
    "jwtsecret":"asdfghjkl",
    "githubToken": "b913fb3ca3de1ad5aa3d80678f26d43aad2398b9",

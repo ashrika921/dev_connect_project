@@ -1,11 +1,12 @@
 const mongoose = require("mongoose");
 const config = require("config");
 const mongoUri = config.get("mongoURI");
-const mongoLocal = config.get("mongoLocal");
+// const mongoLocal = config.get("mongoLocal");
 
 const connectDB = async () => {
   try {
-    await mongoose.connect(mongoLocal, {
+   // await mongoose.connect(mongoLocal, {
+     await mongoose.connect(mongoUri, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
       useCreateIndex: true,
