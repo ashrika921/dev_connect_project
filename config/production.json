@@ -2,11 +2,6 @@
    "mongoURI":"mongodb+srv://ashrika:ashrika123@devconnetor.6zejd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
    "mongoLocal":"mongodb://localhost/dev_connector_v1",
    "jwtsecret":"asdfghjkl",
-   // "githubToken": "b913fb3ca3de1ad5aa3d80678f26d43aad2398b9",
-   // "githubClientId":"6c4debf896ef21efbf31",
-   // "githubClientSecret":"3f676cb7764456748cf67095f1398a12af725975"
-
-  // "githubToken": "b913fb3ca3de1ad5aa3d80678f26d43aad2398b9",
    "githubClientId":"d80afe974bc0a2426056",
    "githubClientSecret":"81ece8088741d235c0e784064a5e4ee3aa55f7ad"
 }
