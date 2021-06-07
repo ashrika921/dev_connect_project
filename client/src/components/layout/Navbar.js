@@ -12,9 +12,9 @@ function Navbar({ logout, auth: { isAuthenticated, loading } }) {
           <span className="hide-sm">Dashboard</span>
         </Link>
       </li>
-      <li>
+      {/* <li>
         <Link to="/posts">Posts</Link>
-      </li>
+      </li> */}
       <li>
         <Link to="/profiles">Developers</Link>
       </li>

@@ -61,9 +61,9 @@ const Profile = ({
                 <h4>No education credetials</h4>
               )}
             </div>
-            {profile.githubusername && (
+            {/* {profile.githubusername && (
               <ProfileGithub username={profile.githubusername} />
-            )}
+            )} */}
           </div>
         </Fragment>
       )}
