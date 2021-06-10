@@ -25,13 +25,6 @@
 
   <img src="./img/dashboard.png" />
 
-## Posts:
-
-- All the posts posted by developers.
-- Like and comment functionality.
-- Add your own post.
-
-  <img src="./img/posts.png" />
 
 ## Developers:
 
