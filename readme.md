@@ -37,13 +37,13 @@
 
 - See all the developers present on Devconnect.
 
-  <img src="./img/developers.png" />
+  <img src="./img/developer.png" />
 
 ## Profile:
 
 - See the profile of a single developer.
 
-  <img src="./img/profile.png" />
+  <img src="./img/Profile.png" />
 
 # Technology:
 
