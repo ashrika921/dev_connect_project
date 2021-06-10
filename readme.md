@@ -45,30 +45,14 @@
 
   <img src="./img/profile.png" />
 
-## Repos:
-
-- Fetching the latest repos from the developers github profile.
-
-  <img src="./img/repos.png" />
-
 # Technology:
 
 ## Client:
 
 - Reactjs
-- Redux(State Management)
 
 ## Server:
 
 - Nodejs
 - ExpressJs
 - Mongodb(atlas)
-
-## Config directory req a file default.json which should contain:
-
-- _mongoUri_
-- _mongoURI_
-- _mongoLocal_
-- _jwtsecret_
-- _githubClientId_
-- _githubClientSecret_
